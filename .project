@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>LightControl</name>
+	<name>lightcontrol</name>
 	<comment></comment>
 	<projects>
 		<project>Arduino_Uno</project>
@@ -84,9 +84,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>LiquidCrystal</name>
+			<name>SerialDebugger</name>
 			<type>2</type>
-			<locationURI>LightControlLiquidCrystal/LiquidCrystal</locationURI>
+			<locationURI>lightcontrolSerialDebugger/SerialDebugger</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
